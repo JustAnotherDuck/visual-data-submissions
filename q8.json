@@ -1,0 +1,6 @@
+{
+  "prompt": "A vast ornate mosaic floor viewed from directly above, cinematic aerial perspective. The floor is divided into three distinct tile clusters in warm amber and gold tones. Within each cluster, the individual tiles form a clear upward-sweeping curved pattern, like a rising wave. But when viewed as a whole, the three clusters together form an unmistakable large downward-curving arc in deep cool blue and shadow. The local pattern and the global pattern are simultaneously visible and contradictory. Photorealistic stone and ceramic texture, dramatic overhead lighting, no text, no labels, no numbers, no chart axes, single frame.no text, no labels, no numbers, no graphs, no charts, no diagrams, no annotations",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "A mosaic floor where each tile cluster forms a clear upward arc locally, but all clusters combined create an unmistakable downward arc globally — local and global truth simultaneously visible and contradictory."
+}
