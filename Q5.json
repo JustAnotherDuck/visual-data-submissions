@@ -1,0 +1,7 @@
+{
+  "prompt": "A single vast ocean, its surface covered almost entirely by a dense, suffocating layer of fragmented plastic debris in muted grays and sickly yellows. Beneath the surface, glimpsed through a small clearing, is pure deep blue water , barely visible, almost a memory. No text, no charts, no labels. Photorealistic, aerial view, cinematic lighting, editorial magazine style. The clear water occupies less than 10% of the frame.",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "dataset_name": "Global Plastic Waste - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/plastic-pollution",
+  "insight": "Only 9% of all plastic ever produced has been recycled, leaving the vast majority polluting oceans and land."
+}
