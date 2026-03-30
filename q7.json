@@ -1,0 +1,8 @@
+{
+  "prompt": "Ukiyo-e woodblock print in the style of Katsushika Hokusai, Edo period Japan. A dramatic mountain landscape rendered in flat unmodulated areas of indigo blue, ochre, and vermillion with bold black ink outlines. A small human figure descends a steep mountain path, each step following the sharpest downward slope through a series of ridges and valleys. The composition uses strong diagonal lines from upper left to lower right. The valleys glow with warm ochre light. Flat color fills with visible woodgrain texture, no photographic shading, no gradients, no text, no labels, traditional washi paper texture.",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Ukiyo-e woodblock prints",
+  "tradition_period": "Edo period, 1603–1868",
+  "tradition_approach": "Flat unmodulated color fills, bold black ink outlines, diagonal Hokusai-style composition, limited indigo-ochre-vermillion palette, visible woodgrain texture, stylized non-photographic depth."
+}
